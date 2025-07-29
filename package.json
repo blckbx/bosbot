@@ -19,7 +19,7 @@
   "author": "",
   "license": "MIT license",
   "dependencies": {
+    "systeminformation": "^5.23.8"
     "dotenv": "^16.4.5",
-    "systeminformation": "^5.22.6"
   }
 }
